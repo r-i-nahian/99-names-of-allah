@@ -1,0 +1,16 @@
+{
+  "name": "99 Names of ALLAH",
+  "version": "1.00",
+  "description": "Prophet Muhammad (PBUH) said - There are 99 names of Allah, and that anyone who memorizes all the names will be awarded paradise.This is an app that helps you to learn and memorize the 99 names of Allah.",
+  "launch_path": "/index.html",
+  "icons": {
+    "64": "/img/99NamesofAllah64.png",
+    "128": "/img/99NamesofAllah128.png",
+    "512": "/img/99NamesofAllah512.png"
+  },
+  "developer": {
+    "name": "Rashik Ishrak Nahian",
+    "url": "http://about.me/r.i.nahian"
+  },
+  "default_locale": "en"
+}
